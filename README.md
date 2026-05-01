@@ -4,4 +4,4 @@ Descripcion: Este proyecto consiste en el desarrollo de la pagina web concorde c
 instalacion: No requiere instalacion
 uso: El usuario puede navegar desde google entre otros navegadores, ademas podra interactuar con botones que lo llevaran a diferentes sitios de la web de concorde dependiendo de sus necesidades.
 Tecnologias: El uso de tecnologias incluye css, html
-Autores:
+Autores: 
